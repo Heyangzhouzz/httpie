@@ -1,0 +1,11 @@
+As Felix said, Project management and project
+development are two completely different job.
+in my opinion, developer should't be reqired to
+partcipate in project management, it should be handled by professional PM. Immature project management will cause project risk directly.
+
+1. Without a project manager, the project will lack a clear plan and timeline, developers may over pursue technical details and ignore the time and schedule of project ,leading to project delays. For example, in 2013, during the US federal government shutdown, NASA faced project delays due to a lack of project managers, resulting in multiple projects being delayed.
+2. Without a project manager, there will be issues with controlling project costs. For instance, in 2015, the German railway company launched a high-speed train project without a project manager, leading to cost overruns due to a lack of cost control and project management.
+3. Without a project manager, there will be problems with ensuring project quality. Developers may ignore quality due to time pressure. For example, in 2015, the Australian National Electricity Network launched a transmission line construction project without a project manager, leading to multiple transmission lines having quality issues due to a lack of quality control and project management.
+4. Without a project manager, there will be communication problems among team members.drvelopers may not be able to discover project problems and solutions in time due to poor communication. For example, in 2016, US hospitals launched an electronic medical record system upgrade project without a project manager, leading to difficulties and challenges for hospital staff due to a lack of communication and coordination.
+Let's look at this chart from pMI report, rate of projects
+completed on time is 64% in high maturity project management,but the low maturity only has 36% . projects with mature project management perform better than immature in terms of cost control failure rate, project fit,etc.
